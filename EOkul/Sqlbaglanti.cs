@@ -12,7 +12,7 @@ namespace EOkul
     {
         public SqlConnection baglanti()
         {
-            SqlConnection baglantı = new SqlConnection(@"Data Source=MAMIMONSTER\SQLEXPRESS;Initial Catalog=Okul;Integrated Security=True;Encrypt=False");
+            SqlConnection baglantı = new SqlConnection(@"Data Source=");
             baglantı.Open();
             return baglantı;
         }
