@@ -17,7 +17,7 @@ Bu proje, öğrenci ve öğretmenlerin eğitim süreçlerini dijital ortamda yö
 - Windows Forms
 - ADO.NET (DataSet & DataTable)
 - SQL Server
-- Katmanlı mimari (UI, BLL, DAL)
+
 
 ## 🖼️ Uygulama Görselleri
 
